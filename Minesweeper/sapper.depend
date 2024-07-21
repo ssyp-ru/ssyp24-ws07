@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1721474778 source:/home/senya/workspace/C/csfml/sapper/main.c
+	<SFML/Graphics.h>
+	<string.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SFML/Audio.h>
+	<stdbool.h>
+

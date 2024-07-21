@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1721292359 source:/home/ssyp/workspace/battle_cats/list.c
+	<stdlib.h>
+	<stdint.h>
+	"list.h"
+
+1721447911 /home/ssyp/workspace/battle_cats/list.h
+	<SFML/Graphics.h>
+	<stdint.h>
+
+1721470010 source:/home/ssyp/workspace/battle_cats/main.c
+	<SFML/Graphics.h>
+	<SFML/Audio.h>
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+	<time.h>
+	<string.h>
+
+1721292359 source:/home/senya/workspace/SSYP2024/ssyp2024-ws07/battle_cats/list.c
+	<stdlib.h>
+	<stdint.h>
+	"list.h"
+
+1721447911 /home/senya/workspace/SSYP2024/ssyp2024-ws07/battle_cats/list.h
+	<SFML/Graphics.h>
+	<stdint.h>
+
+1721472186 source:/home/senya/workspace/SSYP2024/ssyp2024-ws07/battle_cats/main.c
+	<SFML/Graphics.h>
+	<SFML/Audio.h>
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+	<time.h>
+	<string.h>
+

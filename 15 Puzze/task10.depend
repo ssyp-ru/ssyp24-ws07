@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1721448622 source:/home/ssyp/workspace/task10/main.c
+	<SFML/Graphics.h>
+	<string.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1721448622 source:/home/senya/workspace/SSYP2024/ssyp2024-ws07/15 Puzzle/main.c
+	<SFML/Graphics.h>
+	<string.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1721455010 source:/home/ssyp/qwertyuioplkjhgfdsazxcvbn/project_dinozavr/main.c
+	<SFML/Graphics.h>
+	<SFML/Window.h>
+	<SFML/System.h>
+	<SFML/Audio.h>
+	<stdio.h>
+

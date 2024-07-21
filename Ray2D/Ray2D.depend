@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1721376388 source:/home/ssyp2023/Desktop/primitives/main.c
+	<SFML/Graphics.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<unistd.h>
+
+1721382575 source:/home/ssyp2023/Desktop/Ray2D/main.c
+	<SFML/Graphics.h>
+	<SFML/Audio.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<unistd.h>
+

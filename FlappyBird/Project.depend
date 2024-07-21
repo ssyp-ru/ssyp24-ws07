@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1721385623 source:/home/ssyp/workspace/Project/main.c
+	<stdio.h>
+	<stdlib.h>
+	<SFML/Graphics.h>
+	<time.h>
+	<SFML/Audio.h>
+
+1721456433 source:/home/ssyp/workspace/FlappyBird/main.c
+	<stdio.h>
+	<stdlib.h>
+	<SFML/Graphics.h>
+	<time.h>
+	<SFML/Audio.h>
+
+1721456433 source:/home/senya/workspace/SSYP2024/ssyp2024-ws07/FlappyBird/main.c
+	<stdio.h>
+	<stdlib.h>
+	<SFML/Graphics.h>
+	<time.h>
+	<SFML/Audio.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1721456026 source:/home/ssyp/workspace/I_need_to_make_a_game/main.c
+	<SFML/Graphics.h>
+	<SFML/Audio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<stdio.h>
+	<time.h>
+
+1721456230 source:/home/senya/workspace/SSYP2024/ssyp2024-ws07/I_need_to_make_a_game/main.c
+	<SFML/Graphics.h>
+	<SFML/Audio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<stdio.h>
+	<time.h>
+

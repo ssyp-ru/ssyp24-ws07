@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1721455904 source:/home/ssyp/workspace/project/main.c
+	<SFML/Graphics.h>
+	<SFML/Window.h>
+	<SFML/System.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
